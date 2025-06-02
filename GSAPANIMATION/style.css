@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: gilroy;
+}
+html,
+body{
+    height: 100%;
+    width: 100%;
+}
+
+#box1{ height: 200px;
+width: 200px;
+background-color: red;}
+
+#box2{ height: 200px;
+width: 200px;
+background-color: wheat;}
+
+#box3{ height: 200px;
+width: 200px;
+background-color: black;}
